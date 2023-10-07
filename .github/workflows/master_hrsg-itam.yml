@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'HRSG-ITAM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09B3EC91BD064A03B3FC4B5710C4C73B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E23A70D21C144E099AA0F36F9C0E0AF0 }}
           package: .
